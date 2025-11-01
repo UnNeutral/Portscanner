@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 """
-portscanner.py — compact, human-styled TCP/UDP port scanner (fixed-save version).
+portscanner.py — compact, TCP/UDP port scanner (fixed-save version).
 
 Behaviour changes from previous:
 - Opens CSV output immediately and writes header so file always exists.
